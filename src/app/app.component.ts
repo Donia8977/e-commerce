@@ -12,7 +12,7 @@ export class AppComponent {
   products = [
     { name: 'Sample Product',
      //image: 'assets/images/IP1.PNG',
-     image: 'D:\Angular_course\e-commerce\src\assets\images\IP1.PNG',
+     image: ' images/perfume.png',
       price: 10, 
       description: 'Sample description' }
   ];
